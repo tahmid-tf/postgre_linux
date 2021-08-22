@@ -1,6 +1,6 @@
 Installing postgreSql on linux
 
-Step 1 : https://www.youtube.com/watch?v=-LwI4HMR_Eg&ab_channel=ProgrammingKnowledge (not necessary)
+Step 1 : https://www.youtube.com/watch?v=-LwI4HMR_Eg&ab_channel=ProgrammingKnowledge
 Step 2 : Install pgAdmin4
 Step 3: on terminal type - sudo apt-get install php-pgsql
 Step 4 : go to Computer->etc->php->7.4->apache2->php.ini
